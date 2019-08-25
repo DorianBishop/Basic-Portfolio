@@ -1,6 +1,6 @@
 .Header {
     background-color: #4aaaa5;
-    margin: 1px 10px 10px 100px;
+    margin: 1px 10px 10px 250px;
     height: 90px;
     width: 200px;
     color: #ffffff
@@ -8,10 +8,49 @@
     
 }
 
+.me{ float: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 div {
     width: 960px;
     margin: 10px;
-    border: 3px solid #dddddd;
+    margin-left: 250px;
+    border: 12px solid #dddddd;
+   
   }
 
   .AboutMe{
@@ -38,42 +77,66 @@ div {
   }
 
  
+
  
  
  
  
  
  
- 
- 
- 
- 
- 
- 
-  body{background-image 
+
+  
+  
+  
+  input[type=text], select, textarea {
+    width: 95%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    resize: vertical;
+   
+  } 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  button{
+    background-color:  #4aaaa5;
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    text-align: center;
+    display:  inline-block;
+    font-size: 16px
+
 
   }
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
   
   img {
     float: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  h3{
+    border: none;
+    padding: 0p;
   }
