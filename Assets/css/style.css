@@ -215,3 +215,6 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
+body {  background-image: url(Assets/Images/ep_naturalwhite.png); } 
